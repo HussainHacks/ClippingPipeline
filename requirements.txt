@@ -1,0 +1,6 @@
+faster-whisper>=1.0
+numpy>=1.26
+yt-dlp>=2024.0
+
+# Optional, only needed to capture Twitch streams directly:
+# streamlink>=6.0

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+work/
+clips/
+output/
+*.ts
+*.mp4
+*.wav
+*.log
